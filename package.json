@@ -1,0 +1,15 @@
+{
+  "name": "ai-nft-avatar",
+  "version": "1.0.0",
+  "description": "Hackathon project, blockchain protocol implementation on opStack for AI NFT avatars as well as the NFT standard itself and smart contract for mint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "hardhat": "^2.17.1"
+  }
+}
